@@ -1,6 +1,0 @@
-@Class03.Homework.WebApiApp_HostAddress = http://localhost:5105
-
-GET {{Class03.Homework.WebApiApp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
